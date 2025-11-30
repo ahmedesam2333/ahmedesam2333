@@ -11,10 +11,11 @@ Strong problem-solver and fast learner with growing experience in backend archit
 <br/>
 🎓 B.Sc. in Computer Science — Helwan University
 Excellent with Honors — GPA: 3.6/4.0
-<hr>
+<br/>
 📚 Training
 - Web & UI Development — 9-month intensive internship, ITI
-
+<hr>
+<br/>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 🚀 About Me
