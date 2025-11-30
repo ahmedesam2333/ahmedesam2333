@@ -1,5 +1,5 @@
 👋 Hey, I'm Ahmed Essam
-
+<div align="center"> <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="410"/> </div>
 <a href="https://linkedin.com/in/ahmed-essam-33b989221"><img align="left" alt="LinkedIn" height="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 <a href="https://github.com/ahmedesam2333"><img align="left" alt="GitHub" height="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
 <br><br>
@@ -14,7 +14,6 @@ Dedicated to continuous learning, modern web development, and impactful software
 🎓 B.Sc. in Computer Science — Helwan University
 Excellent with Honors — GPA: 3.6/4.0
 
-<div align="right"> <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="410"/> </div>
 🚀 About Me
 
 🌱 Advancing backend architecture & deployment skills
