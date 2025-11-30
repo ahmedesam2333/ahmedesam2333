@@ -15,20 +15,9 @@ Excellent with Honors — GPA: 3.6/4.0
 📚 Training
 - Web & UI Development — 9-month intensive internship, ITI
 <hr>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
-🚀 About Me
-
-- 🌱 Growing expertise in modern backend architecture & deployment
-
-- 💡 Passionate about solving real-world problems with efficient code
-
-- 🤝 Open to collaboration on full-stack and backend projects
-
-- 🎯 Always improving — writing cleaner, scalable, & secure APIs
-
-- 🧩 Keen on system architecture, security, and UX-driven design
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="150" />
+</p>
 
 <br/>
 <br/>
