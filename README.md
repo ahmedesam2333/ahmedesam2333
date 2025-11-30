@@ -1,5 +1,4 @@
 ## Hey 👋, I'm Ahmed Essam!
-<hr>
 <a href="https://linkedin.com/in/ahmed-essam-33b989221"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 <a href="mailto:ahmedezsam@gmail.com"><img height="28" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://drive.google.com/file/d/1DM3CjpFwSvd9e5SDpx7HhqdJq1_rJTz-/view?usp=sharing"><img height="28" src="https://img.shields.io/badge/Resume-1abc9c?style=flat&logo=google-drive&logoColor=white"/></a>
@@ -20,15 +19,15 @@ Excellent with Honors — GPA: 3.6/4.0
 
 🚀 About Me
 
-🌱 Growing expertise in modern backend architecture & deployment
+- 🌱 Growing expertise in modern backend architecture & deployment
 
-💡 Passionate about solving real-world problems with efficient code
+- 💡 Passionate about solving real-world problems with efficient code
 
-🤝 Open to collaboration on full-stack and backend projects
+- 🤝 Open to collaboration on full-stack and backend projects
 
-🎯 Always improving — writing cleaner, scalable, & secure APIs
+- 🎯 Always improving — writing cleaner, scalable, & secure APIs
 
-🧩 Keen on system architecture, security, and UX-driven design
+- 🧩 Keen on system architecture, security, and UX-driven design
 
 
 <br/>
