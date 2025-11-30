@@ -1,67 +1,61 @@
 👋 Hey, I'm Ahmed Essam
-<div align="center"> <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="410"/> </div>
-<a href="https://linkedin.com/in/ahmed-essam-33b989221"><img align="left" alt="LinkedIn" height="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
-<a href="https://github.com/ahmedesam2333"><img align="left" alt="GitHub" height="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
-<br><br>
 
-💻 Software Engineer | Full-Stack Web Developer
-📍 Cairo, Egypt
-📫 ahmedezsam@gmail.com
+<a href="https://linkedin.com/in/ahmed-essam-33b989221"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+<a href="https://github.com/ahmedesam2333"><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
+<a href="mailto:ahmedezsam@gmail.com"><img height="28" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1DM3CjpFwSvd9e5SDpx7HhqdJq1_rJTz-/view?usp=sharing"><img height="28" src="https://img.shields.io/badge/Resume-1abc9c?style=flat&logo=google-drive&logoColor=white"/></a>
 
-Motivated Software Engineer focused on building secure, scalable, and user-centric applications.
-Dedicated to continuous learning, modern web development, and impactful software engineering.
+<div align="right"> <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="350"/> </div>
+🚀 About Me
+
+Motivated Software Engineer passionate about building secure, scalable, and user-centric applications.
+Strong problem-solver and fast learner with growing experience in backend architecture & deployment.
 
 🎓 B.Sc. in Computer Science — Helwan University
 Excellent with Honors — GPA: 3.6/4.0
 
-🚀 About Me
+💡 Focus Areas:
 
-🌱 Advancing backend architecture & deployment skills
+Secure RESTful APIs (JWT, bcrypt, Helmet, CORS)
 
-🔐 Focused on secure APIs (JWT / bcrypt / Helmet)
+Clean Architecture & SDLC
 
-🎯 Writing clean, scalable, maintainable code
+Scalable backend services with Node.js / Express.js
 
-🤝 Open to full-stack & backend collaborations
+Collaboration, leadership & detail-oriented development
 
-🧠 Curious, fast-learner, passionate problem-solver
+🔨 Languages & Tools
+📌 Programming Languages
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+🖥 Frontend
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 
-🛠️ Tech Stack
+UI/UX Design Fundamentals
 
-Languages
-<br>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+⚙ Backend
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
 
-Frontend
-<br>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+REST APIs
 
-Backend
-<br>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+🗄 Databases
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
-Tools / Deployment
-<br>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+SQL + NoSQL design
 
-Security • SDLC • Clean Architecture • UML • UI/UX essentials
-
+🚀 Deployment
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+🔧 Version Control & Tools
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 🧠 Soft Skills
 
 Teamwork • Communication • Leadership • Problem Solving • Attention to Detail
 
-📚 Education & Training
+📚 Training
 
-B.Sc. — Computer Science, Helwan University
+Web & UI Development — 9-month intensive internship, ITI
 
-ITI — Web & UI Development (9-month intensive training)
+📫 Reach Me Anytime
 
-🌐 Connect with Me
-<a href="https://linkedin.com/in/ahmed-essam-33b989221" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="https://github.com/ahmedesam2333" target="_blank"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/> </a> <a href="mailto:ahmedezsam@gmail.com"> <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail"/> </a> <a href="https://drive.google.com/file/d/1DM3CjpFwSvd9e5SDpx7HhqdJq1_rJTz-/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/Resume-1abc9c?style=for-the-badge&logo=google-drive"/> </a>
+<a href="https://linkedin.com/in/ahmed-essam-33b989221" target="_blank">LinkedIn</a> •
+<a href="https://github.com/ahmedesam2333" target="_blank">GitHub</a> •
+<a href="mailto:ahmedezsam@gmail.com">Email</a>
