@@ -22,7 +22,7 @@ Excellent with Honors — GPA: 3.6/4.0
 
 
 </div>
-<img align="right" alt="coder-gif" src="https://i.giphy.com/VTtANKl0beDFQRLDTh.webp" width="350"/>
+<div align="right"> <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="410"/> </div>
 🚀 About Me
 
 🌱 Advancing backend architecture & deployment skills
@@ -62,11 +62,6 @@ Tools / Deployment
 
 Security • SDLC • Clean Architecture • UML • UI/UX essentials
 
-🎨 VS Code • Anime Dev Aesthetic
-
-Coding + Anime = Perfect Vibes 💜
-
-<div align="center"> <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="410"/> </div>
 🧠 Soft Skills
 
 Teamwork • Communication • Leadership • Problem Solving • Attention to Detail
