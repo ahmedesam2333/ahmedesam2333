@@ -16,12 +16,9 @@ Excellent with Honors — GPA: 3.6/4.0
 - Web & UI Development — 9-month intensive internship, ITI
 <hr>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px" />
+  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="500px" />
 </p>
 
-
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
