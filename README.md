@@ -16,7 +16,6 @@ Excellent with Honors — GPA: 3.6/4.0
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-<br/>
 
 ### 🔨 Languages and Tools:
 
