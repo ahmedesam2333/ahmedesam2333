@@ -15,7 +15,9 @@ Excellent with Honors — GPA: 3.6/4.0
 📚 Training
 - Web & UI Development — 9-month intensive internship, ITI
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-<br/>
+
+<br>
+
 ### 🔨 Languages and Tools:
 
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
