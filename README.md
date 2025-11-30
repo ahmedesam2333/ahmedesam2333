@@ -15,12 +15,13 @@ Excellent with Honors — GPA: 3.6/4.0
 
 📚 Training
 - Web & UI Development — 9-month intensive internship, ITI
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<div>
+
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
+</div>
 
 
-🧠 Soft Skills
-
-Teamwork • Communication • Leadership • Problem Solving • Attention to Detail
 <br>
 
 ## 🛠️ Languages and Tools
