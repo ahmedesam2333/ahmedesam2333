@@ -14,14 +14,6 @@ Dedicated to continuous learning, modern web development, and impactful software
 🎓 B.Sc. in Computer Science — Helwan University
 Excellent with Honors — GPA: 3.6/4.0
 
-<div align="center">
-
-
-
-
-
-
-</div>
 <div align="right"> <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="410"/> </div>
 🚀 About Me
 
