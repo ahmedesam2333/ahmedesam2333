@@ -7,31 +7,18 @@
 🚀 About Me
 Motivated Software Engineer passionate about building secure, scalable, and user-centric applications.
 Strong problem-solver and fast learner with growing experience in backend architecture & deployment.
+<br/>
 🎓 B.Sc. in Computer Science — Helwan University
 Excellent with Honors — GPA: 3.6/4.0
+
+📚 Training
+- Web & UI Development — 9-month intensive internship, ITI
 <br/>
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 
-
-💡 Focus Areas:
-
-Secure RESTful APIs (JWT, bcrypt, Helmet, CORS)
-
-Clean Architecture & SDLC
-
-Scalable backend services with Node.js / Express.js
-
-Collaboration, leadership & detail-oriented development
-
-🧠 Soft Skills
-Teamwork • Communication • Leadership • Problem Solving • Attention to Detail
-
-📚 Training
-- Web & UI Development — 9-month intensive internship, ITI
-<br/>
 ### 🔨 Languages and Tools:
 📌 Programming Languages
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
@@ -54,3 +41,7 @@ SQL + NoSQL design
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 🔧 Version Control & Tools
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
+🧠 Soft Skills
+
+Teamwork • Communication • Leadership • Problem Solving • Attention to Detail
