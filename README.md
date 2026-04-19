@@ -72,20 +72,6 @@ I'm a **Node.js Backend Engineer** based in Cairo, Egypt, passionate about build
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedezsam2333&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedezsam2333&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ahmedezsam2333&theme=github-dark-blue&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e)
-
-</div>
-
----
-
 ## 🧩 Problem Solving
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-113+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
@@ -106,15 +92,6 @@ I'm a **Node.js Backend Engineer** based in Cairo, Egypt, passionate about build
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced **system design** patterns for scalable backends
-- **Docker** & containerization for Node.js services  
-- **GraphQL** API design
-- **NestJS** framework
-
----
-
 ## 🤝 Let's Connect
 
 I'm open to **backend roles**, **internships**, and **collaboration** on interesting Node.js/backend projects.
@@ -126,7 +103,5 @@ I'm open to **backend roles**, **internships**, and **collaboration** on interes
 <div align="center">
 
 *"Clean code always looks like it was written by someone who cares."* — Robert C. Martin
-
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedezsam2333&color=22c55e&style=flat-square&label=Profile+Views)
 
 </div>
