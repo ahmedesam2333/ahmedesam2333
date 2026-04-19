@@ -58,7 +58,7 @@ I'm a **Node.js Backend Engineer** based in Cairo, Egypt, passionate about build
 
 ## 🚀 Featured Project
 
-### 🔨 [Sarahaa — Anonymous Messaging App Backend](https://github.com/ahmedezsam2333/sarahaa) &nbsp;![Status](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square)
+### 🔨 [Sarahaa — Anonymous Messaging App Backend](https://github.com/ahmedesam2333/Sarahaa-App) &nbsp;![Status](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square)
 
 > Secure REST API backend for an anonymous social messaging platform — actively in development.
 
