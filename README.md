@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vWidth=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Ahmed+Essam;Node.js+Backend+Engineer;Building+Secure+%26+Scalable+APIs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vWidth=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Ahmed+Essam;Node.js+Backend+Engineer" alt="Typing SVG" />
 
 <br/>
 
@@ -68,29 +68,6 @@ Security-first architecture featuring JWT auth, OTP email verification, encrypte
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedezsam2333&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedezsam2333&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ahmedezsam2333&theme=github-dark-blue&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e)
-
-</div>
-
----
-
-## 🧩 Problem Solving
-
-![LeetCode](https://img.shields.io/badge/LeetCode-113+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![CodeWars](https://img.shields.io/badge/CodeWars-15+_Solved-B1361E?style=for-the-badge&logo=codewars&logoColor=white)
-
-> Consistent practice in **Data Structures**, **Algorithms**, and **OOP** fundamentals.
-
----
-
 ## 📚 Courses & Certifications
 
 | Certificate | Platform |
@@ -99,15 +76,6 @@ Security-first architecture featuring JWT auth, OTP email verification, encrypte
 | MERN Stack Developer Track | Udemy — Yehia Elaraby |
 | Web Designer | NTI - ITIDA |
 | UX/UI Design | ITI Internship |
-
----
-
-## 🌱 Currently Learning
-
-- Advanced **system design** patterns for scalable backends
-- **Docker** & containerization for Node.js services  
-- **GraphQL** API design
-- **NestJS** framework
 
 ---
 
