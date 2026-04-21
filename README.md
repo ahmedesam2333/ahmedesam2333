@@ -21,8 +21,7 @@ I'm a **Node.js Backend Engineer** based in Cairo, Egypt, passionate about build
 - 🏗️ Believer in **clean architecture**, modular design, and maintainable codebases
 - 📚 Currently enrolled in a **9-month Full Stack intensive** at **ITI (Information Technology Institute)**
 - 🎓 B.Sc. in **Computer Science & AI** — Helwan University | GPA: **3.6/4.0 — Excellent with Honors**
-- ⚡ Actively solving problems on **LeetCode (113+)** and **CodeWars (15+)**
-- 🪖 Military Service: **Exempted**
+- ⚡ Actively solving problems on **LeetCode (113+)** and **CodeWars (20+)**
 
 ---
 
@@ -65,17 +64,6 @@ I'm a **Node.js Backend Engineer** based in Cairo, Egypt, passionate about build
 **Stack:** `Node.js` · `Express.js` · `MongoDB` · `JWT` · `Bcrypt` · `Nodemailer` · `Helmet` · `Joi` · `Rate Limiting`
 
 Security-first architecture featuring JWT auth, OTP email verification, encrypted phone numbers, centralized error handling, and strict Joi request validation across all routes.
-
----
-
-## 📚 Courses & Certifications
-
-| Certificate | Platform |
-|---|---|
-| The Complete JavaScript Course 2025: From Zero to Expert | Udemy — Jonas Schmedtmann |
-| MERN Stack Developer Track | Udemy — Yehia Elaraby |
-| Web Designer | NTI - ITIDA |
-| UX/UI Design | ITI Internship |
 
 ---
 
