@@ -21,7 +21,7 @@ I'm a **Node.js Backend Engineer** based in Cairo, Egypt, passionate about build
 - 🏗️ Believer in **clean architecture**, modular design, and maintainable codebases
 - 📚 Currently enrolled in a **9-month Full Stack intensive** at **ITI (Information Technology Institute)**
 - 🎓 B.Sc. in **Computer Science & AI** — Helwan University | GPA: **3.6/4.0 — Excellent with Honors**
-- ⚡ Actively solving problems on **LeetCode (113+)** and **CodeWars (20+)**
+- ⚡ Actively solving problems on **LeetCode (120+)** and **CodeWars (100+)**
 
 ---
 
