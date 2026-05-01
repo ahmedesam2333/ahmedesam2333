@@ -67,7 +67,7 @@ Security-first architecture featuring JWT auth, OTP email verification, encrypte
 
 ---
 
-### 📝 [BlogWave — Blog Platform REST API Backend](https://github.com/ahmedesam2333/blogwave-app) &nbsp;![Status](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square)
+### 📝 [BlogWave — Blog Platform REST API Backend]([https://github.com/ahmedesam2333/blogwave-app](https://github.com/ahmedesam2333/Blog-App)) &nbsp;![Status](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square)
 
 > REST API backend for a blog platform where users can register, manage their profiles, and create & manage blog posts — built with raw SQL via MySQL2, with Sequelize ORM migration in progress.
 
