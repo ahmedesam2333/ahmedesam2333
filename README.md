@@ -55,7 +55,7 @@ I'm a **Node.js Backend Engineer** based in Cairo, Egypt, passionate about build
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🔨 [Sarahaa — Anonymous Messaging App Backend](https://github.com/ahmedesam2333/Sarahaa-App) &nbsp;![Status](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square)
 
@@ -64,6 +64,16 @@ I'm a **Node.js Backend Engineer** based in Cairo, Egypt, passionate about build
 **Stack:** `Node.js` · `Express.js` · `MongoDB` · `JWT` · `Bcrypt` · `Nodemailer` · `Helmet` · `Joi` · `Rate Limiting`
 
 Security-first architecture featuring JWT auth, OTP email verification, encrypted phone numbers, centralized error handling, and strict Joi request validation across all routes.
+
+---
+
+### 📝 [BlogWave — Blog Platform REST API Backend](https://github.com/ahmedesam2333/blogwave-app) &nbsp;![Status](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square)
+
+> REST API backend for a blog platform where users can register, manage their profiles, and create & manage blog posts — built with raw SQL via MySQL2, with Sequelize ORM migration in progress.
+
+**Stack:** `Node.js` · `Express.js` · `MySQL` · `MySQL2` · `Sequelize` · `Bcrypt`
+
+Modular architecture (`modules/auth`, `modules/user`, `modules/blog`) with a normalized relational schema, FK constraints with cascade rules, full API documentation, and ERD + DB Mapping diagrams in the README.
 
 ---
 
