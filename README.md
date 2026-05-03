@@ -31,6 +31,8 @@ I'm a **Node.js Backend Engineer** based in Cairo, Egypt, passionate about build
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-2D6A9F?style=for-the-badge&logo=sequelize&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -66,13 +68,13 @@ Security-first architecture featuring JWT auth, OTP email verification, encrypte
 
 ---
 
-### 📝 [BlogWave — Blog Platform REST API Backend](https://github.com/ahmedesam2333/Blog-App) &nbsp;![Status](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square)
+### 📝 [BlogWave — Blog Platform REST API Backend](https://github.com/ahmedesam2333/Blog-App) &nbsp;![Status](https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square)
 
-> REST API backend for a blog platform where users can register, manage their profiles, and create & manage blog posts — built with raw SQL via MySQL2, with Sequelize ORM migration in progress.
+> A completed blog platform REST API using both MySQL2 (raw SQL) and Sequelize ORM — covering auth, user management, and blog CRUD with model associations, validators, paranoid soft delete, pagination, and eager loading.
 
-**Stack:** `Node.js` · `Express.js` · `MySQL` · `MySQL2` · `Sequelize` · `Bcrypt`
+**Stack:** `Node.js` · `Express.js` · `MySQL` · `MySQL2` · `Sequelize ORM` · `Bcrypt`
 
-Modular architecture (`modules/auth`, `modules/user`, `modules/blog`) with a normalized relational schema, FK constraints with cascade rules, full API documentation, and ERD + DB Mapping diagrams in the README.
+Two-phase architecture — MySQL2 raw SQL for auth (Phase 1), fully migrated to Sequelize ORM for user and blog management (Phase 2) with `paranoid` soft delete, `belongsTo`/`hasMany` associations with CASCADE, paginated search, eager loading, and Sequelize-aware centralized error handling.
 
 ---
 
