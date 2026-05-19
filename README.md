@@ -55,13 +55,13 @@ I'm a **Node.js Backend Engineer** based in Cairo, Egypt, passionate about build
 
 ## 🚀 Projects
 
-### 🔨 [Sarahaa — Anonymous Messaging App Backend](https://github.com/ahmedesam2333/Sarahaa-App) &nbsp;![Status](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square)
+### 🕵️ [Sarahaa — Anonymous Messaging App Backend](https://github.com/ahmedesam2333/Sarahaa-App) &nbsp;![Status](https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square)
 
-> Secure REST API backend for an anonymous social messaging platform — actively in development.
+> A secure, scalable REST API backend for an anonymous social messaging platform. Users share a public link and receive messages from anyone — senders stay anonymous, recipients stay in control.
 
-**Stack:** `Node.js` · `Express.js` · `MongoDB` · `JWT` · `Bcrypt` · `Nodemailer` · `Helmet` · `Joi` · `Rate Limiting`
+**Stack:** `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JWT` · `Google OAuth` · `Bcrypt` · `CryptoJS (AES)` · `Nodemailer` · `Multer` · `Cloudinary` · `Helmet` · `Joi` · `Rate Limiting` · `nanoid` · `Chalk`
 
-Security-first architecture featuring JWT auth, OTP email verification, encrypted phone numbers, centralized error handling, and strict Joi request validation across all routes.
+Full-featured anonymous messaging backend with JWT access & refresh token pairs, JTI blacklist-based token revocation, Google OAuth unified signup/login, OTP email verification (bcrypt-hashed, 2-min expiry), AES-encrypted phone numbers at rest, Cloudinary profile & cover image uploads, soft-delete + restore across users and messages, and an admin control layer for account management — all behind centralized Joi validation and a global async error handler.
 
 ---
 
