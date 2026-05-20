@@ -17,11 +17,13 @@
 I'm a **Node.js Backend Engineer** based in Cairo, Egypt, passionate about building **secure**, **scalable**, and **production-ready REST APIs**.
 
 - 🚀 Specializing in **Node.js / Express.js** backend systems with **MongoDB**
-- 🔒 Strong focus on **API security** — JWT auth, bcrypt, rate limiting, Helmet, CORS
+- 🔒 Strong focus on **API security** — JWT auth, bcrypt, AES encryption, rate limiting, Helmet, CORS
 - 🏗️ Believer in **clean architecture**, modular design, and maintainable codebases
+- ☁️ Experienced in **deploying to production** — AWS EC2, Nginx, PM2 cluster mode
 - 📚 Currently enrolled in a **9-month Full Stack intensive** at **ITI (Information Technology Institute)**
 - 🎓 B.Sc. in **Computer Science & AI** — Helwan University | GPA: **3.6/4.0 — Excellent with Honors**
 - ⚡ Actively solving problems on **LeetCode (120+)**
+
 ---
 
 ## 🛠️ Tech Stack
@@ -45,7 +47,13 @@ I'm a **Node.js Backend Engineer** based in Cairo, Egypt, passionate about build
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & DevOps
+### Cloud & DevOps
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -55,13 +63,21 @@ I'm a **Node.js Backend Engineer** based in Cairo, Egypt, passionate about build
 
 ## 🚀 Projects
 
-### 🕵️ [Sarahaa — Anonymous Messaging App Backend](https://github.com/ahmedesam2333/Sarahaa-App) &nbsp;![Status](https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square)
+### 🕵️ [Sarahaa — Anonymous Messaging App Backend](https://github.com/ahmedesam2333/Sarahaa-App) &nbsp;![Status](https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square) &nbsp;![Deployed](https://img.shields.io/badge/Deployed-AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 > A secure, scalable REST API backend for an anonymous social messaging platform. Users share a public link and receive messages from anyone — senders stay anonymous, recipients stay in control.
 
-**Stack:** `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JWT` · `Google OAuth` · `Bcrypt` · `CryptoJS (AES)` · `Nodemailer` · `Multer` · `Cloudinary` · `Helmet` · `Joi` · `Rate Limiting` · `nanoid` · `Chalk`
+**Stack:** `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JWT` · `Google OAuth` · `Bcrypt` · `CryptoJS (AES)` · `Nodemailer` · `Multer` · `Cloudinary` · `Helmet` · `Joi` · `Rate Limiting` · `nanoid` · `Chalk` · `AWS EC2` · `Nginx` · `PM2`
 
-Full-featured anonymous messaging backend with JWT access & refresh token pairs, JTI blacklist-based token revocation, Google OAuth unified signup/login, OTP email verification (bcrypt-hashed, 2-min expiry), AES-encrypted phone numbers at rest, Cloudinary profile & cover image uploads, soft-delete + restore across users and messages, and an admin control layer for account management — all behind centralized Joi validation and a global async error handler.
+Full-featured anonymous messaging backend with JWT access & refresh token pairs, per-token JTI blacklist revocation, Google OAuth unified signup/login, OTP email verification (bcrypt-hashed, 2-min expiry), AES-encrypted phone numbers at rest, Cloudinary profile & cover image uploads, soft-delete + restore across users and messages, and an admin control layer for account management — all behind centralized Joi validation and a global async error handler. Deployed on AWS EC2 with Nginx as a reverse proxy and PM2 in cluster mode.
+
+**Live:**
+| Protocol | URL |
+|---|---|
+| HTTP | [ec2-32-192-124-255.compute-1.amazonaws.com](http://ec2-32-192-124-255.compute-1.amazonaws.com) |
+| HTTPS | [bagged-feeble-handcraft.ngrok-free.dev](https://bagged-feeble-handcraft.ngrok-free.dev) |
+
+> ⚠️ Hosted on AWS Free Tier — active until ~November 2025. HTTPS URL uses ngrok free tier and may change; always check the README for the latest link.
 
 ---
 
