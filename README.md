@@ -77,7 +77,7 @@ Full-featured anonymous messaging backend with JWT access & refresh token pairs,
 | HTTP | [ec2-32-192-124-255.compute-1.amazonaws.com](http://ec2-32-192-124-255.compute-1.amazonaws.com) |
 | HTTPS | [bagged-feeble-handcraft.ngrok-free.dev](https://bagged-feeble-handcraft.ngrok-free.dev) |
 
-> ⚠️ Hosted on AWS Free Tier — active until ~November 2026. HTTPS URL uses ngrok free tier and may change; always check the README for the latest link.
+> ⚠️ Hosted on AWS Free Tier — active until ~November 2026.
 
 ---
 
