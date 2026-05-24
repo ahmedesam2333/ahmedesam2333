@@ -20,7 +20,17 @@ I'm a **Node.js Backend Engineer** based in Cairo, Egypt, passionate about build
 
 ## 🚀 Projects
 
-### 🕵️ [Sarahaa — Anonymous Messaging App Backend](https://github.com/ahmedesam2333/Sarahaa-App) &nbsp;![Status](https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square) &nbsp;![Deployed](https://img.shields.io/badge/Deployed-AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+### 🌐 [Social Media App — REST API Backend](https://github.com/ahmedesam2333/Social-Media-App) &nbsp;![Status](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=for-the-badge)
+
+> A secure, scalable REST API backend for a modern social media platform — built fully in TypeScript for end-to-end type safety, from request validation to database models.
+
+**Stack:** `TypeScript` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JWT` · `Google OAuth` · `Bcrypt` · `CryptoJS (AES)` · `Zod` · `Nodemailer` · `Multer` · `Cloudinary` · `Helmet` · `Rate Limiting` · `nanoid` · `AWS EC2` · `Nginx` · `PM2`
+
+Fully typed social media backend with JWT access & refresh token pairs, per-token JTI blacklist revocation, Google OAuth unified signup/login, OTP email verification (bcrypt-hashed, 2-min expiry), AES-encrypted phone numbers at rest, Cloudinary profile & cover image uploads, soft-delete + restore across users, and an admin control layer — all behind centralized Zod validation schemas and a global async error handler. Modular architecture built to scale as new social features are added.
+
+---
+
+### 🕵️ [Sarahaa — Anonymous Messaging App Backend](https://github.com/ahmedesam2333/Sarahaa-App) &nbsp;![Status](https://img.shields.io/badge/Status-Completed-22c55e?style=for-the-badge) &nbsp;![Deployed](https://img.shields.io/badge/Deployed-AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 > A secure, scalable REST API backend for an anonymous social messaging platform. Users share a public link and receive messages from anyone — senders stay anonymous, recipients stay in control.
 
@@ -39,17 +49,7 @@ Full-featured anonymous messaging backend with JWT access & refresh token pairs,
 
 ---
 
-### 🌐 [Social Media App — REST API Backend](https://github.com/ahmedesam2333/Social-Media-App) &nbsp;![Status](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square)
-
-> A secure, scalable REST API backend for a modern social media platform — built fully in TypeScript for end-to-end type safety, from request validation to database models.
-
-**Stack:** `TypeScript` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JWT` · `Google OAuth` · `Bcrypt` · `CryptoJS (AES)` · `Zod` · `Nodemailer` · `Multer` · `Cloudinary` · `Helmet` · `Rate Limiting` · `nanoid` · `AWS EC2` · `Nginx` · `PM2`
-
-Fully typed social media backend with JWT access & refresh token pairs, per-token JTI blacklist revocation, Google OAuth unified signup/login, OTP email verification (bcrypt-hashed, 2-min expiry), AES-encrypted phone numbers at rest, Cloudinary profile & cover image uploads, soft-delete + restore across users, and an admin control layer — all behind centralized Zod validation schemas and a global async error handler. Modular architecture built to scale as new social features are added.
-
----
-
-### 📝 [BlogWave — Blog Platform REST API Backend](https://github.com/ahmedesam2333/Blog-App) &nbsp;![Status](https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square)
+### 📝 [BlogWave — Blog Platform REST API Backend](https://github.com/ahmedesam2333/Blog-App) &nbsp;![Status](https://img.shields.io/badge/Status-Completed-22c55e?style=for-the-badge)
 
 > A completed blog platform REST API using both MySQL2 (raw SQL) and Sequelize ORM — covering auth, user management, and blog CRUD with model associations, validators, paranoid soft delete, pagination, and eager loading.
 
