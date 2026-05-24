@@ -58,11 +58,3 @@ Full-featured anonymous messaging backend with JWT access & refresh token pairs,
 **Stack:** `Node.js` · `Express.js` · `MySQL` · `MySQL2` · `Sequelize ORM` · `Bcrypt`
 
 Two-phase architecture — MySQL2 raw SQL for auth (Phase 1), fully migrated to Sequelize ORM for user and blog management (Phase 2) with `paranoid` soft delete, `belongsTo`/`hasMany` associations with CASCADE, paginated search, eager loading, and Sequelize-aware centralized error handling.
-
----
-
-## 🤝 Let's Connect
-
-I'm open to **backend roles**, **internships**, and **collaboration** on interesting Node.js/backend projects.
-
-📩 **ahmedezsam@gmail.com** | 🌍 **Cairo, Egypt**
