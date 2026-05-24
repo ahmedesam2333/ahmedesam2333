@@ -1,10 +1,12 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vWidth=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Ahmed+Essam;Node.js+Backend+Engineer" alt="Typing SVG" />
-<br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Essam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-essam-33b989221)
-[![Email](https://img.shields.io/badge/Email-ahmedezsam@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedezsam@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View_PDF-1abc9c?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/13tRC5kd76bMTi4Qe91tMb7tCnWYR4GPv?usp=sharing)
 </div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ahmed-essam-33b989221"><img src="https://img.shields.io/badge/LinkedIn-Ahmed_Essam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ahmedezsam@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedezsam@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://drive.google.com/drive/folders/13tRC5kd76bMTi4Qe91tMb7tCnWYR4GPv?usp=sharing"><img src="https://img.shields.io/badge/Resume-View_PDF-1abc9c?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
+</p>
 
 ---
 
