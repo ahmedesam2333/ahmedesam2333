@@ -22,7 +22,7 @@ I'm a **Node.js Backend Engineer** based in Cairo, Egypt, passionate about build
 
 ## 🚀 Projects
 
-### 🌐 [Social Media App — REST API Backend](https://github.com/ahmedesam2333/Social-Media-App) &nbsp;![Status](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=for-the-badge)
+### 🌐 [Social Media App — REST API Backend](https://github.com/ahmedesam2333/Social-Media-REST-API-) &nbsp;![Status](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=for-the-badge)
 
 > A secure, scalable REST API backend for a modern social media platform — built fully in TypeScript for end-to-end type safety, from request validation to database models.
 
