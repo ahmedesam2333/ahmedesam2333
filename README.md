@@ -24,11 +24,11 @@ I'm a **Node.js Backend Engineer** based in Cairo, Egypt, passionate about build
 
 ### 🌐 [Social Media App — REST API Backend](https://github.com/ahmedesam2333/Social-Media-REST-API-) &nbsp;![Status](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=for-the-badge)
 
-> A secure, scalable REST API backend for a modern social media platform — built fully in TypeScript for end-to-end type safety, from request validation to database models.
+> A full-featured social media REST API built from the ground up with TypeScript — fully typed end-to-end, from Zod validation schemas to database models, with a modular architecture designed to scale.
 
-**Stack:** `TypeScript` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JWT` · `Google OAuth` · `Bcrypt` · `CryptoJS (AES)` · `Zod` · `Nodemailer` · `Multer` · `Cloudinary` · `Helmet` · `Rate Limiting` · `nanoid` · `AWS EC2` · `Nginx` · `PM2`
+**Stack:** `TypeScript` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JWT` · `Google OAuth` · `Bcrypt` · `CryptoJS (AES)` · `Zod` · `Nodemailer` · `Multer` · `Cloudinary` · `Helmet` · `Rate Limiting` · `nanoid` 
 
-Fully typed social media backend with JWT access & refresh token pairs, per-token JTI blacklist revocation, Google OAuth unified signup/login, OTP email verification (bcrypt-hashed, 2-min expiry), AES-encrypted phone numbers at rest, Cloudinary profile & cover image uploads, soft-delete + restore across users, and an admin control layer — all behind centralized Zod validation schemas and a global async error handler. Modular architecture built to scale as new social features are added.
+Currently in active development — core infrastructure is in place and new features are being added continuously. ⭐ Star or follow the repo to stay updated as the project grows.
 
 ---
 
