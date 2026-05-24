@@ -1,13 +1,9 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vWidth=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Ahmed+Essam;Node.js+Backend+Engineer" alt="Typing SVG" />
-
 <br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Essam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-essam-33b989221)
 [![Email](https://img.shields.io/badge/Email-ahmedezsam@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedezsam@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View_PDF-1abc9c?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/13tRC5kd76bMTi4Qe91tMb7tCnWYR4GPv?usp=sharing)
-
 </div>
 
 ---
@@ -33,12 +29,23 @@ I'm a **Node.js Backend Engineer** based in Cairo, Egypt, passionate about build
 Full-featured anonymous messaging backend with JWT access & refresh token pairs, per-token JTI blacklist revocation, Google OAuth unified signup/login, OTP email verification (bcrypt-hashed, 2-min expiry), AES-encrypted phone numbers at rest, Cloudinary profile & cover image uploads, soft-delete + restore across users and messages, and an admin control layer for account management — all behind centralized Joi validation and a global async error handler. Deployed on AWS EC2 with Nginx as a reverse proxy and PM2 in cluster mode.
 
 **Live:**
+
 | Protocol | URL |
 |---|---|
 | HTTP | [ec2-32-192-124-255.compute-1.amazonaws.com](http://ec2-32-192-124-255.compute-1.amazonaws.com) |
 | HTTPS | [bagged-feeble-handcraft.ngrok-free.dev](https://bagged-feeble-handcraft.ngrok-free.dev) |
 
 > ⚠️ Hosted on AWS Free Tier — active until ~November 2026.
+
+---
+
+### 🌐 [Social Media App — REST API Backend](https://github.com/ahmedesam2333/Social-Media-App) &nbsp;![Status](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=flat-square)
+
+> A secure, scalable REST API backend for a modern social media platform — built fully in TypeScript for end-to-end type safety, from request validation to database models.
+
+**Stack:** `TypeScript` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JWT` · `Google OAuth` · `Bcrypt` · `CryptoJS (AES)` · `Zod` · `Nodemailer` · `Multer` · `Cloudinary` · `Helmet` · `Rate Limiting` · `nanoid` · `AWS EC2` · `Nginx` · `PM2`
+
+Fully typed social media backend with JWT access & refresh token pairs, per-token JTI blacklist revocation, Google OAuth unified signup/login, OTP email verification (bcrypt-hashed, 2-min expiry), AES-encrypted phone numbers at rest, Cloudinary profile & cover image uploads, soft-delete + restore across users, and an admin control layer — all behind centralized Zod validation schemas and a global async error handler. Modular architecture built to scale as new social features are added.
 
 ---
 
