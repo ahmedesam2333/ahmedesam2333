@@ -66,11 +66,3 @@ Two-phase architecture — MySQL2 raw SQL for auth (Phase 1), fully migrated to 
 I'm open to **backend roles**, **internships**, and **collaboration** on interesting Node.js/backend projects.
 
 📩 **ahmedezsam@gmail.com** | 🌍 **Cairo, Egypt**
-
----
-
-<div align="center">
-
-*"Clean code always looks like it was written by someone who cares."* — Robert C. Martin
-
-</div>
