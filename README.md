@@ -15,24 +15,25 @@
 I'm a **Node.js Backend Engineer** based in Cairo, Egypt, passionate about building **secure**, **scalable**, and **production-ready REST APIs**.
 
 - 🚀 Specializing in **Node.js / Express.js** backend systems with **MongoDB**
-- 📚 Currently enrolled in a **9-month Full Stack intensive** at **ITI (Information Technology Institute)**
+- 🎓 **Web & UI ITI Graduate** — completed the 9-month Full Stack intensive at **ITI (Information Technology Institute)**
 - 🎓 B.Sc. in **Computer Science & AI** — Helwan University | GPA: **3.6/4.0 — Excellent with Honors**
 
 ---
 
 ## 🚀 Projects
 
-### 🌐 [Social Media REST API](https://github.com/ahmedesam2333/Social-Media-REST-API-) &nbsp;![Status](https://img.shields.io/badge/Status-In_Progress-f59e0b?style=for-the-badge) &nbsp;![RealTime](https://img.shields.io/badge/Real--Time-Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+### 🌐 [Social Media REST API](https://github.com/ahmedesam2333/Social-Media-REST-API-) &nbsp;![Status](https://img.shields.io/badge/Status-Completed-22c55e?style=for-the-badge) &nbsp;![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) &nbsp;![RealTime](https://img.shields.io/badge/Real--Time-Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-> A full-featured, fully-typed social networking REST API — auth, posts, comments, friend connections, admin roles, and real-time one-on-one/group chat with live like notifications.
+> A full-featured, fully-typed social networking REST + GraphQL API — auth, posts, comments, friend connections, admin roles, and real-time one-on-one/group chat with live like notifications.
 
-**Stack:** `TypeScript` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `Zod` · `JWT` · `AWS S3` · `Socket.io` · `Multer` · `Nodemailer` · `bcrypt`
+**Stack:** `TypeScript` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `GraphQL` · `graphql-http` · `Zod` · `JWT` · `AWS S3` · `Socket.io` · `Multer` · `Nodemailer` · `bcrypt`
 
-Fully typed end-to-end backend built around a generic repository pattern (pagination, cursor streaming, aggregation-pipeline updates), JWT access/refresh tokens with a blocklist revocation model, and Zod validation across every route. Covers posts with tagging/likes/visibility rules, threaded comments and replies, a friend-request system, admin/super-admin role management, AWS S3 uploads via pre-signed URLs with event-driven rollback, and a Socket.io layer powering real-time OVO/OVM chat plus instant like notifications.
+Fully typed end-to-end backend built around a generic repository pattern (pagination, cursor streaming, aggregation-pipeline updates), JWT access/refresh tokens with a blocklist revocation model, and Zod validation across every route. Covers posts with tagging/likes/visibility rules, threaded comments and replies, a friend-request system, admin/super-admin role management, AWS S3 uploads via pre-signed URLs with event-driven rollback, and a Socket.io layer powering real-time OVO/OVM chat plus instant like notifications. Also ships a parallel **GraphQL API** (`graphql-http`) covering user/post queries and a `likePost` mutation that pushes the same real-time Socket.io notification as the REST route.
 
 **Highlights:**
 
 ![JWT](https://img.shields.io/badge/JWT-Access_&_Refresh_+_Blocklist-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![GraphQL](https://img.shields.io/badge/API-REST_+_GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Validation](https://img.shields.io/badge/Validation-Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![Storage](https://img.shields.io/badge/Storage-AWS_S3_Pre--Signed_URLs-FF9900?style=flat-square&logo=amazons3&logoColor=white)
 ![RealTime](https://img.shields.io/badge/Real--Time-OVO_/_OVM_Chat_+_Live_Likes-010101?style=flat-square&logo=socketdotio&logoColor=white)
